@@ -1,0 +1,5 @@
+Ivanov - 500000
+Petrov - 35000
+Tinkoff - 60000
+Aleksandrova - 500001
+Kuznecova - 200000
